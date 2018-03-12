@@ -1,0 +1,14 @@
+.gutters-10 {
+  margin-right: 0;
+  margin-left: 0;
+
+  .col,
+  [class*="col-"] {
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+}
+
+.card {
+  margin: 5px 0;
+}
